@@ -1,0 +1,17 @@
+{
+  "name": "file-management-project-luizodm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Luiz Otávio D'avila",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "date-difference-calculator-luizodm": "^1.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
